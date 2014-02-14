@@ -2,8 +2,8 @@
 //  PlayingCardDeck.m
 //  Matchismo
 //
-//  Created by Daniel Young on 1/30/2014.
-//  Copyright (c) 2014 Daniel Young. All rights reserved.
+//  Created by Evan Schaffner on 2/7/13.
+//  Copyright (c) 2013 Evan Schaffner. All rights reserved.
 //
 
 #import "PlayingCardDeck.h"
